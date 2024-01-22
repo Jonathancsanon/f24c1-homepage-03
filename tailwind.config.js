@@ -3,9 +3,8 @@ module.exports = {
   content: ["./index.html"],
   theme: {
     extend: {
-      color: {
-        "brand-green" : '#38cb89'
-
+      colors: {
+        "brand-green": '#38CB89'
       }
     },
   },
